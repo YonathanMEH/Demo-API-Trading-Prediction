@@ -1,5 +1,5 @@
 
-# RED NEURONAL RECURRENTE
+# Proyecto API Trading Prediccion
 
 # Pre Procesamiento de Datos
 
