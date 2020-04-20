@@ -1,0 +1,8 @@
+*.pyc
+venv/1
+wh1/
+
+
+#python -m pip install --upgrade pip
+#virtualenv -p C:\Pyhon36\python.exe venv
+#activate.bat

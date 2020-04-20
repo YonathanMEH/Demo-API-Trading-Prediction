@@ -1,0 +1,5 @@
+pip install sklearn 
+pip install matplotlib
+pip install keras.models
+pip install keras
+web.py==0.40
