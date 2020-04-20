@@ -2,14 +2,4 @@
 
 ## Objetivo
 
-Esta aplicación web permite trading, el checar compra venta de activos en el mercado libre  mediante la URL acceder a la información almacenda en un archivo CSV.
-
-Los datos son mostrados en formato JSON
-
-## Acciones
-
-* get - Obtiene todos los registros
-* put - Inserta un nuevo registro
-* delele - Borra un registro
-* search - Busca un registro
-* update - Actualiza un registro
+Esta aplicación web permite hacer una prediccion de el valor de las acciones de google, esto con el fin de ayudar a los inversionistas o amantes del trading a realizar sus inversiones, no son datos muy precisos pero el codigo de red recurrente ayuda a tener especulaciones mas precisas sobre el valor de las acciones a futuro.
